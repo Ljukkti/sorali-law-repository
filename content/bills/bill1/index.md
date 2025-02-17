@@ -5,10 +5,7 @@ lastmod: 2024-05-08
 draft: true
 tags:
     [
-    "Senate bill","Imperial Senate", "Diplomatic Missive", "Imperial Decree", "Governmental Announcement",
-    "In-effect", "Inconsequential", "Under consideration", "Successfully Enacted", "Amended", "Superceded", "Archived", 
-    "Caerus", "Cathramis", "Halinn", "Iristoya", "Kejafros", "Rozakko'ra", "Talasi", "Tanragh", "Tiberia",
-    "Soralae", "Hou Zhanaland", "Arushinim", "Verena"
+    "Senate bill","Imperial Senate"
     ]
 subtags:
     [

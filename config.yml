@@ -49,6 +49,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
+# this one's for the archive tab
     MainSections: ["bills","laws","papers","courses","data","books"]
     ShowToc: false
     disableScrollToTop: true
