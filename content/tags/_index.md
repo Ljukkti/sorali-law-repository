@@ -1,5 +1,5 @@
 ---
 title: "Tags"
-description: "Topics covered and methods used in my research papers and courses."
+description: "Quickly access legal documents grouped by their tyeps or jurisdiction."
 layout: "terms"
 ---

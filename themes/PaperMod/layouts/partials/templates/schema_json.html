@@ -2,7 +2,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "{{- ( site.Params.schema.publisherType | default "Organization") | title -}}",
+  "@type": "{{- ( site.Params.schema.publisherType | default "Organisation") | title -}}",
   "name": {{ site.Title }},
   "url": {{ site.Home.Permalink }},
   "description": {{ site.Params.description | plainify | truncate 180 | safeHTML }},
@@ -110,7 +110,7 @@
     "@id": {{ .Permalink | safeHTML }}
   },
   "publisher": {
-    "@type": "{{- ( site.Params.schema.publisherType | default "Organization") | title -}}",
+    "@type": "{{- ( site.Params.schema.publisherType | default "Organisation") | title -}}",
     "name": {{ site.Title }},
     "logo": {
       "@type": "ImageObject",

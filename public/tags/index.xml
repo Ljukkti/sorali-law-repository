@@ -170,10 +170,192 @@
       <description></description>
     </item>
     <item>
+      <title>Amended</title>
+      <link>http://localhost:1313/sorali-codex/tags/amended/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/amended/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archived</title>
+      <link>http://localhost:1313/sorali-codex/tags/archived/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/archived/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arushinim</title>
+      <link>http://localhost:1313/sorali-codex/tags/arushinim/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/arushinim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Caerus</title>
+      <link>http://localhost:1313/sorali-codex/tags/caerus/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/caerus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cathramis</title>
+      <link>http://localhost:1313/sorali-codex/tags/cathramis/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/cathramis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diplomatic Missive</title>
+      <link>http://localhost:1313/sorali-codex/tags/diplomatic-missive/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/diplomatic-missive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Governmental Announcement</title>
+      <link>http://localhost:1313/sorali-codex/tags/governmental-announcement/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/governmental-announcement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Halinn</title>
+      <link>http://localhost:1313/sorali-codex/tags/halinn/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/halinn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hou Zhanaland</title>
+      <link>http://localhost:1313/sorali-codex/tags/hou-zhanaland/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/hou-zhanaland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imperial Decree</title>
+      <link>http://localhost:1313/sorali-codex/tags/imperial-decree/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/imperial-decree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imperial Senate</title>
+      <link>http://localhost:1313/sorali-codex/tags/imperial-senate/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/imperial-senate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>In-Effect</title>
+      <link>http://localhost:1313/sorali-codex/tags/in-effect/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/in-effect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inconsequential</title>
+      <link>http://localhost:1313/sorali-codex/tags/inconsequential/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/inconsequential/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iristoya</title>
+      <link>http://localhost:1313/sorali-codex/tags/iristoya/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/iristoya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kejafros</title>
+      <link>http://localhost:1313/sorali-codex/tags/kejafros/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/kejafros/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Portugese</title>
       <link>http://localhost:1313/sorali-codex/tags/portugese/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/sorali-codex/tags/portugese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rozakko&#39;ra</title>
+      <link>http://localhost:1313/sorali-codex/tags/rozakkora/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/rozakkora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Senate Bill</title>
+      <link>http://localhost:1313/sorali-codex/tags/senate-bill/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/senate-bill/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soralae</title>
+      <link>http://localhost:1313/sorali-codex/tags/soralae/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/soralae/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Successfully Enacted</title>
+      <link>http://localhost:1313/sorali-codex/tags/successfully-enacted/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/successfully-enacted/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Superceded</title>
+      <link>http://localhost:1313/sorali-codex/tags/superceded/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/superceded/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Talasi</title>
+      <link>http://localhost:1313/sorali-codex/tags/talasi/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/talasi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tanragh</title>
+      <link>http://localhost:1313/sorali-codex/tags/tanragh/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/tanragh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tiberia</title>
+      <link>http://localhost:1313/sorali-codex/tags/tiberia/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/tiberia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Under Consideration</title>
+      <link>http://localhost:1313/sorali-codex/tags/under-consideration/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/under-consideration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Verena</title>
+      <link>http://localhost:1313/sorali-codex/tags/verena/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/verena/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Winning</title>
+      <link>http://localhost:1313/sorali-codex/tags/winning/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/tags/winning/</guid>
       <description></description>
     </item>
     <item>
