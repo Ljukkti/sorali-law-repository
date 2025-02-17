@@ -7,6 +7,7 @@ enableRobotsTXT: true
 
 taxonomies:
     tag: tags
+    subtags: subtags
 
 menu:
     main:

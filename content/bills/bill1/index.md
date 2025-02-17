@@ -1,7 +1,8 @@
----
+﻿---
 title: "Portugese Irregular Verbs" 
 date: 1997-01-01
 lastmod: 2024-05-08
+draft: true
 tags:
     [
     "Senate bill","Imperial Senate", "Diplomatic Missive", "Imperial Decree", "Governmental Announcement",
@@ -9,7 +10,10 @@ tags:
     "Caerus", "Cathramis", "Halinn", "Iristoya", "Kejafros", "Rozakko'ra", "Talasi", "Tanragh", "Tiberia",
     "Soralae", "Hou Zhanaland", "Arushinim", "Verena"
     ]
-
+subtags:
+    [
+    "First Senate", "Second Senate"
+    ]
 author: ["Moritz-Maria von Igelfeld"]
 description: "This book discusses Portugese irregular verbs in great details."
 summary: "This book discusses Portugese irregular verbs in great details."
