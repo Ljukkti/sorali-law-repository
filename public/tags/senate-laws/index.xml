@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Senate Laws on Laws of Soralae</title>
+    <link>http://localhost:1313/sorali-codex/tags/senate-laws/</link>
+    <description>Recent content in Senate Laws on Laws of Soralae</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/sorali-codex/tags/senate-laws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etiquette for Bills and Voting in the Senate</title>
+      <link>http://localhost:1313/sorali-codex/bills/bill-3/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/bills/bill-3/</guid>
+      <description>How votes happen</description>
+    </item>
+  </channel>
+</rss>

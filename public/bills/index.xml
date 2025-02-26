@@ -6,14 +6,42 @@
     <description>Recent content in Imperial Senate Bills on Laws of Soralae</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/sorali-codex/bills/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Portugese Irregular Verbs</title>
-      <link>http://localhost:1313/sorali-codex/bills/bill2/</link>
+      <title>Jurisprudence and Jurisdiction of the Senate</title>
+      <link>http://localhost:1313/sorali-codex/bills/bill-4/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/bills/bill-4/</guid>
+      <description>Bill to select the official colour of the Senate.</description>
+    </item>
+    <item>
+      <title>Bill - Tie Resolution</title>
+      <link>http://localhost:1313/sorali-codex/bills/bill-1/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/bills/bill-1/</guid>
+      <description>Bill to fill the remaining seats after a tie in the votes.</description>
+    </item>
+    <item>
+      <title>Bill to select the official colour of the Senate</title>
+      <link>http://localhost:1313/sorali-codex/bills/bill-2/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/bills/bill-2/</guid>
+      <description>Bill to select the official colour of the Senate.</description>
+    </item>
+    <item>
+      <title>Etiquette for Bills and Voting in the Senate</title>
+      <link>http://localhost:1313/sorali-codex/bills/bill-3/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/bills/bill-3/</guid>
+      <description>How votes happen</description>
+    </item>
+    <item>
+      <title>Example bill: For sandboxing purposes</title>
+      <link>http://localhost:1313/sorali-codex/example/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/bills/bill2/</guid>
-      <description>desc. inside the page</description>
+      <guid>http://localhost:1313/sorali-codex/example/</guid>
+      <description>description field</description>
     </item>
   </channel>
 </rss>

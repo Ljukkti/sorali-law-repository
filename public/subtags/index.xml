@@ -6,6 +6,21 @@
     <description>Recent content in Subtags on Laws of Soralae</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/sorali-codex/subtags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Senate</title>
+      <link>http://localhost:1313/sorali-codex/subtags/first-senate/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/subtags/first-senate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Second Senate</title>
+      <link>http://localhost:1313/sorali-codex/subtags/second-senate/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/subtags/second-senate/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

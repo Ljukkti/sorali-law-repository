@@ -6,14 +6,21 @@
     <description>Recent content in Inconsequential on Laws of Soralae</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/sorali-codex/tags/inconsequential/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Portugese Irregular Verbs</title>
-      <link>http://localhost:1313/sorali-codex/bills/bill2/</link>
+      <title>Bill to select the official colour of the Senate</title>
+      <link>http://localhost:1313/sorali-codex/bills/bill-2/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-codex/bills/bill-2/</guid>
+      <description>Bill to select the official colour of the Senate.</description>
+    </item>
+    <item>
+      <title>Example bill: For sandboxing purposes</title>
+      <link>http://localhost:1313/sorali-codex/example/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/bills/bill2/</guid>
-      <description>desc. inside the page</description>
+      <guid>http://localhost:1313/sorali-codex/example/</guid>
+      <description>description field</description>
     </item>
     <item>
       <title>Portugese Irregular Verbs</title>
