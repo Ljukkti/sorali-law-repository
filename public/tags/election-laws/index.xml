@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Election Laws on Laws of Soralae</title>
-    <link>http://localhost:1313/sorali-codex/tags/election-laws/</link>
+    <link>http://localhost:1313/sorali-law-repository/tags/election-laws/</link>
     <description>Recent content in Election Laws on Laws of Soralae</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/sorali-codex/tags/election-laws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/sorali-law-repository/tags/election-laws/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bill to fill the remaining seats after a tie in the votes</title>
-      <link>http://localhost:1313/sorali-codex/bills/bill-1/</link>
+      <title>Bill - Tie Resolution</title>
+      <link>http://localhost:1313/sorali-law-repository/bills/bill-1/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/bills/bill-1/</guid>
-      <description>Bill to resolve the ties in voting.</description>
+      <guid>http://localhost:1313/sorali-law-repository/bills/bill-1/</guid>
+      <description>Bill to fill the remaining seats after a tie in the votes.</description>
     </item>
   </channel>
 </rss>

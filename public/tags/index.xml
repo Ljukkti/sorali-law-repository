@@ -2,381 +2,409 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Laws of Soralae</title>
-    <link>http://localhost:1313/sorali-codex/tags/</link>
+    <link>http://localhost:1313/sorali-law-repository/tags/</link>
     <description>Recent content in Tags on Laws of Soralae</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/sorali-codex/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Academia</title>
-      <link>http://localhost:1313/sorali-codex/tags/academia/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/academia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Experimental Psychology</title>
-      <link>http://localhost:1313/sorali-codex/tags/experimental-psychology/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/experimental-psychology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Inner Hedgehog</title>
-      <link>http://localhost:1313/sorali-codex/tags/inner-hedgehog/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/inner-hedgehog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Invasive Thoughts</title>
-      <link>http://localhost:1313/sorali-codex/tags/invasive-thoughts/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/invasive-thoughts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Social Psychology</title>
-      <link>http://localhost:1313/sorali-codex/tags/social-psychology/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/social-psychology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dataset</title>
-      <link>http://localhost:1313/sorali-codex/tags/dataset/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/dataset/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>French</title>
-      <link>http://localhost:1313/sorali-codex/tags/french/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/french/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Irregular Verbs</title>
-      <link>http://localhost:1313/sorali-codex/tags/irregular-verbs/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/irregular-verbs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Italian</title>
-      <link>http://localhost:1313/sorali-codex/tags/italian/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/italian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Philology</title>
-      <link>http://localhost:1313/sorali-codex/tags/philology/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/philology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portuguese</title>
-      <link>http://localhost:1313/sorali-codex/tags/portuguese/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/portuguese/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/sorali-codex/tags/python/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Romance Languages</title>
-      <link>http://localhost:1313/sorali-codex/tags/romance-languages/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/romance-languages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simulations</title>
-      <link>http://localhost:1313/sorali-codex/tags/simulations/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/simulations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spanish</title>
-      <link>http://localhost:1313/sorali-codex/tags/spanish/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/spanish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>History of Oil</title>
-      <link>http://localhost:1313/sorali-codex/tags/history-of-oil/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/history-of-oil/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mediterranean World</title>
-      <link>http://localhost:1313/sorali-codex/tags/mediterranean-world/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/mediterranean-world/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Oleic Science</title>
-      <link>http://localhost:1313/sorali-codex/tags/oleic-science/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/oleic-science/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Canine Pulmonary Efficiency</title>
-      <link>http://localhost:1313/sorali-codex/tags/canine-pulmonary-efficiency/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/canine-pulmonary-efficiency/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Canine Science</title>
-      <link>http://localhost:1313/sorali-codex/tags/canine-science/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/canine-science/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Experimental Zoology</title>
-      <link>http://localhost:1313/sorali-codex/tags/experimental-zoology/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/experimental-zoology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sausage Dogs</title>
-      <link>http://localhost:1313/sorali-codex/tags/sausage-dogs/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/sausage-dogs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zoology</title>
-      <link>http://localhost:1313/sorali-codex/tags/zoology/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/zoology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Amended</title>
-      <link>http://localhost:1313/sorali-codex/tags/amended/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/amended/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Archived</title>
-      <link>http://localhost:1313/sorali-codex/tags/archived/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/archived/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arushinim</title>
-      <link>http://localhost:1313/sorali-codex/tags/arushinim/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/arushinim/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Caerus</title>
-      <link>http://localhost:1313/sorali-codex/tags/caerus/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/caerus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cathramis</title>
-      <link>http://localhost:1313/sorali-codex/tags/cathramis/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/cathramis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Diplomatic Missive</title>
-      <link>http://localhost:1313/sorali-codex/tags/diplomatic-missive/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/diplomatic-missive/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Governmental Announcement</title>
-      <link>http://localhost:1313/sorali-codex/tags/governmental-announcement/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/governmental-announcement/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Halinn</title>
-      <link>http://localhost:1313/sorali-codex/tags/halinn/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/halinn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hou Zhanaland</title>
-      <link>http://localhost:1313/sorali-codex/tags/hou-zhanaland/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/hou-zhanaland/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Imperial Decree</title>
-      <link>http://localhost:1313/sorali-codex/tags/imperial-decree/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/imperial-decree/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/sorali-law-repository/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Imperial Senate</title>
-      <link>http://localhost:1313/sorali-codex/tags/imperial-senate/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/imperial-senate/</guid>
+      <link>http://localhost:1313/sorali-law-repository/tags/imperial-senate/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/imperial-senate/</guid>
       <description></description>
     </item>
     <item>
       <title>In-Effect</title>
-      <link>http://localhost:1313/sorali-codex/tags/in-effect/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/in-effect/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Inconsequential</title>
-      <link>http://localhost:1313/sorali-codex/tags/inconsequential/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/inconsequential/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Iristoya</title>
-      <link>http://localhost:1313/sorali-codex/tags/iristoya/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/iristoya/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kejafros</title>
-      <link>http://localhost:1313/sorali-codex/tags/kejafros/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/kejafros/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portugese</title>
-      <link>http://localhost:1313/sorali-codex/tags/portugese/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/portugese/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rozakko&#39;ra</title>
-      <link>http://localhost:1313/sorali-codex/tags/rozakkora/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/rozakkora/</guid>
+      <link>http://localhost:1313/sorali-law-repository/tags/in-effect/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/in-effect/</guid>
       <description></description>
     </item>
     <item>
       <title>Senate Bill</title>
-      <link>http://localhost:1313/sorali-codex/tags/senate-bill/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/senate-bill/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/senate-bill/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Senate Laws</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/senate-laws/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/senate-laws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Election Laws</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/election-laws/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/election-laws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imperial Regent</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/imperial-regent/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/imperial-regent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inconsequential</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/inconsequential/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/inconsequential/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Academia</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/academia/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/academia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experimental Psychology</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/experimental-psychology/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/experimental-psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inner Hedgehog</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/inner-hedgehog/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/inner-hedgehog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Invasive Thoughts</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/invasive-thoughts/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/invasive-thoughts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Psychology</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/social-psychology/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/social-psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dataset</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/dataset/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/dataset/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>French</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/french/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/french/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Irregular Verbs</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/irregular-verbs/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/irregular-verbs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italian</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/italian/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/italian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philology</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/philology/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/philology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portuguese</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/portuguese/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/portuguese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/python/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Romance Languages</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/romance-languages/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/romance-languages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulations</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/simulations/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/simulations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spanish</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/spanish/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/spanish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History of Oil</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/history-of-oil/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/history-of-oil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mediterranean World</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/mediterranean-world/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/mediterranean-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oleic Science</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/oleic-science/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/oleic-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canine Pulmonary Efficiency</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/canine-pulmonary-efficiency/</link>
+      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/canine-pulmonary-efficiency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canine Science</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/canine-science/</link>
+      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/canine-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experimental Zoology</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/experimental-zoology/</link>
+      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/experimental-zoology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sausage Dogs</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/sausage-dogs/</link>
+      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/sausage-dogs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zoology</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/zoology/</link>
+      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/zoology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amended</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/amended/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/senate-bill/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/amended/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archived</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/archived/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/archived/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arushinim</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/arushinim/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/arushinim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Caerus</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/caerus/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/caerus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cathramis</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/cathramis/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/cathramis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diplomatic Missive</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/diplomatic-missive/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/diplomatic-missive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Governmental Announcement</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/governmental-announcement/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/governmental-announcement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Halinn</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/halinn/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/halinn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hou Zhanaland</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/hou-zhanaland/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/hou-zhanaland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hōu Zhanaland</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/h%C5%8Du-zhanaland/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/h%C5%8Du-zhanaland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Imperial Decree</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/imperial-decree/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/imperial-decree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iristoya</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/iristoya/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/iristoya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kejafros</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/kejafros/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/kejafros/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portugese</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/portugese/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/portugese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rozakko&#39;ra</title>
+      <link>http://localhost:1313/sorali-law-repository/tags/rozakkora/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/tags/rozakkora/</guid>
       <description></description>
     </item>
     <item>
       <title>Soralae</title>
-      <link>http://localhost:1313/sorali-codex/tags/soralae/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/soralae/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/soralae/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/soralae/</guid>
       <description></description>
     </item>
     <item>
       <title>Successfully Enacted</title>
-      <link>http://localhost:1313/sorali-codex/tags/successfully-enacted/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/successfully-enacted/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/successfully-enacted/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/successfully-enacted/</guid>
       <description></description>
     </item>
     <item>
       <title>Superceded</title>
-      <link>http://localhost:1313/sorali-codex/tags/superceded/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/superceded/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/superceded/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/superceded/</guid>
       <description></description>
     </item>
     <item>
       <title>Talasi</title>
-      <link>http://localhost:1313/sorali-codex/tags/talasi/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/talasi/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/talasi/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/talasi/</guid>
       <description></description>
     </item>
     <item>
       <title>Tanragh</title>
-      <link>http://localhost:1313/sorali-codex/tags/tanragh/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/tanragh/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/tanragh/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/tanragh/</guid>
       <description></description>
     </item>
     <item>
       <title>Tiberia</title>
-      <link>http://localhost:1313/sorali-codex/tags/tiberia/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/tiberia/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/tiberia/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/tiberia/</guid>
       <description></description>
     </item>
     <item>
       <title>Under Consideration</title>
-      <link>http://localhost:1313/sorali-codex/tags/under-consideration/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/under-consideration/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/under-consideration/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/under-consideration/</guid>
       <description></description>
     </item>
     <item>
       <title>Winning</title>
-      <link>http://localhost:1313/sorali-codex/tags/winning/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/winning/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/winning/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/winning/</guid>
       <description></description>
     </item>
     <item>
       <title>Celtic Languages</title>
-      <link>http://localhost:1313/sorali-codex/tags/celtic-languages/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/celtic-languages/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/celtic-languages/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/celtic-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Irish</title>
-      <link>http://localhost:1313/sorali-codex/tags/irish/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/irish/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/irish/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/irish/</guid>
       <description></description>
     </item>
     <item>
       <title>Language Modernization</title>
-      <link>http://localhost:1313/sorali-codex/tags/language-modernization/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/language-modernization/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/language-modernization/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/language-modernization/</guid>
       <description></description>
     </item>
     <item>
       <title>Profanity</title>
-      <link>http://localhost:1313/sorali-codex/tags/profanity/</link>
+      <link>http://localhost:1313/sorali-law-repository/tags/profanity/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/tags/profanity/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/tags/profanity/</guid>
       <description></description>
     </item>
   </channel>

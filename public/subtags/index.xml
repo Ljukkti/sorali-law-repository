@@ -2,24 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Subtags on Laws of Soralae</title>
-    <link>http://localhost:1313/sorali-codex/subtags/</link>
+    <link>http://localhost:1313/sorali-law-repository/subtags/</link>
     <description>Recent content in Subtags on Laws of Soralae</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/sorali-codex/subtags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/sorali-law-repository/subtags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Senate</title>
-      <link>http://localhost:1313/sorali-codex/subtags/first-senate/</link>
+      <link>http://localhost:1313/sorali-law-repository/subtags/first-senate/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/subtags/first-senate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1st Yvalnos</title>
+      <link>http://localhost:1313/sorali-law-repository/subtags/1st-yvalnos/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/subtags/first-senate/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/subtags/1st-yvalnos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2nd Yvalnos</title>
+      <link>http://localhost:1313/sorali-law-repository/subtags/2nd-yvalnos/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/subtags/2nd-yvalnos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3rd Yvalnos</title>
+      <link>http://localhost:1313/sorali-law-repository/subtags/3rd-yvalnos/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/subtags/3rd-yvalnos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4th Yvalnos</title>
+      <link>http://localhost:1313/sorali-law-repository/subtags/4th-yvalnos/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/subtags/4th-yvalnos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5th Yvalnos</title>
+      <link>http://localhost:1313/sorali-law-repository/subtags/5th-yvalnos/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/subtags/5th-yvalnos/</guid>
       <description></description>
     </item>
     <item>
       <title>Second Senate</title>
-      <link>http://localhost:1313/sorali-codex/subtags/second-senate/</link>
+      <link>http://localhost:1313/sorali-law-repository/subtags/second-senate/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sorali-codex/subtags/second-senate/</guid>
+      <guid>http://localhost:1313/sorali-law-repository/subtags/second-senate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Third Senate</title>
+      <link>http://localhost:1313/sorali-law-repository/subtags/third-senate/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sorali-law-repository/subtags/third-senate/</guid>
       <description></description>
     </item>
   </channel>

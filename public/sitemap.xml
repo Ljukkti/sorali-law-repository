@@ -2,252 +2,282 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/sorali-codex/bills/bill-1/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/subtags/first-senate/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/tags/imperial-senate/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/bills/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/tags/in-effect/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/bills/bill-4/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/tags/senate-bill/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/tags/senate-laws/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/subtags/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/tags/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/bills/bill-1/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/bills/bill-2/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/bills/bill-2/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/election-laws/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/election-laws/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/subtags/first-senate/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/bills/bill-3/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/imperial-regent/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/imperial-regent/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/imperial-senate/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/inconsequential/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/bills/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/inconsequential/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sorali-codex/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/senate-bill/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sorali-codex/subtags/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sorali-codex/location/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/location/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/opensessions/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/opensessions/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/academia/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/academia/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/experimental-psychology/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/experimental-psychology/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/inner-hedgehog/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/inner-hedgehog/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/invasive-thoughts/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/invasive-thoughts/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/papers/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/papers/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/social-psychology/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/social-psychology/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/papers/paper3/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/papers/paper3/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/data/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/data/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/dataset/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/dataset/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/french/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/french/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/irregular-verbs/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/irregular-verbs/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/italian/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/italian/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/data/data1/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/data/data1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/philology/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/philology/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/portuguese/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/portuguese/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/python/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/python/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/romance-languages/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/romance-languages/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/simulations/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/simulations/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/spanish/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/spanish/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/history-of-oil/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/history-of-oil/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/mediterranean-world/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/mediterranean-world/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/oleic-science/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/oleic-science/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/papers/paper1/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/papers/paper1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/canine-pulmonary-efficiency/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/canine-pulmonary-efficiency/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/canine-science/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/canine-science/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/experimental-zoology/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/experimental-zoology/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/sausage-dogs/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/sausage-dogs/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/papers/paper2/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/papers/paper2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/zoology/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/zoology/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/courses/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/courses/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/courses/course1/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/courses/course1/</loc>
     <lastmod>2024-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/amended/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/subtags/1st-yvalnos/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/archived/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/subtags/2nd-yvalnos/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/arushinim/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/subtags/3rd-yvalnos/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/bill-1/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/subtags/4th-yvalnos/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/books/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/subtags/5th-yvalnos/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/caerus/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/amended/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/cathramis/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/archived/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/diplomatic-missive/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/arushinim/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/governmental-announcement/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/books/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/halinn/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/caerus/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/hou-zhanaland/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/cathramis/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/imperial-decree/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/diplomatic-missive/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/in-effect/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/example/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/iristoya/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/example/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/kejafros/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/governmental-announcement/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/laws/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/halinn/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/portugese/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/hou-zhanaland/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/bills/bill2/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/h%C5%8Du-zhanaland/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/books/book1/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/imperial-decree/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/laws/constitution/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/iristoya/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/laws/law1/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/kejafros/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/laws/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/tags/portugese/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/books/book1/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/laws/constitution/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/laws/law1/</loc>
     <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/laws/law2/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/laws/law2/</loc>
     <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/rozakkora/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/rozakkora/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/subtags/second-senate/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/subtags/second-senate/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/soralae/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/soralae/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/successfully-enacted/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/successfully-enacted/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/superceded/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/superceded/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/talasi/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/talasi/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/tanragh/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/tanragh/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/tiberia/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/subtags/third-senate/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/under-consideration/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/tiberia/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/winning/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/under-consideration/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sorali-law-repository/tags/winning/</loc>
     <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/celtic-languages/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/celtic-languages/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/irish/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/irish/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/language-modernization/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/language-modernization/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/tags/profanity/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/tags/profanity/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/courses/course2/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/courses/course2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sorali-codex/archive/</loc>
+    <loc>http://localhost:1313/sorali-law-repository/archive/</loc>
   </url>
 </urlset>
